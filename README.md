@@ -77,10 +77,16 @@ src/
 tailwind.config.js                 – type/color tokens
 package.json                       – deps
 ```
-
 ## 📸 Showcase Preview
 
-![Hero Section](screenshots/hero.png)
-![Interior View](screenshots/interior.png)
-![Scroll Animation](screenshots/scroll-view.png)
-![Mobile View](screenshots/mobile.png)
+### Hero Section
+![Hero Section](screenshots/hero-section.png)
+
+### Interior View
+![Interior View](screenshots/interior-view.png)
+
+### Scroll Animation
+![Scroll Animation](screenshots/scroll-animation.png)
+
+### Mobile View
+![Mobile View](screenshots/mobile-view.png)
